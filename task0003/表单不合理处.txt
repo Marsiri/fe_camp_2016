@@ -1,0 +1,4 @@
+http://xg.hust.edu.cn:7071/xg/home/login.do?currSchool=hust&CURRENT_YEAR=2016
+华中科技大学学工系统
+填写个人基本信息时，没有实时纠错功能，只能进行提交后的判断
+提交后提示不合格，更改后不能再次提交，只能重新填写
