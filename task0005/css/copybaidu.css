@@ -1,0 +1,112 @@
+nav ul>li{
+    display: inline-table;
+}
+a{
+    display: inline-block;
+    color: #333;
+    line-height: 24px;
+    margin-left: 20px;
+    font-size: 13px;
+    text-decoration: underline;
+}
+.essential{
+    font-weight:700;
+}
+.more{
+    color: #ffffff;
+    background: #3388ff;
+    line-height: 24px;
+    text-align: center;
+    overflow: hidden;
+    border-bottom: 12px solid #3388ff;
+}
+nav ul{
+    position: absolute;
+    top:0;
+    right:0;
+}
+nav ul ul{
+    display: none;
+}
+nav ul li:hover ul{
+    display: block;
+    position: relative;
+}
+nav ul ul li{
+    display: block;
+}
+.logo{
+    margin-top: 60px;
+    display: block;
+    text-align: center;
+}
+img{
+    width: 270px;
+    height: 129px;
+}
+form{
+    margin: 22px auto 0;
+    width: 641px;
+}
+.bg_ipt{
+    border: 1px solid #b6b6b6;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    width: 539px;
+    margin-right: 0;
+    border-right-width: 0;
+    overflow: hidden;
+    height: 34px;
+}
+.ipt{
+    width: 526px;
+    height: 22px;
+    font:16px arial;
+    margin:6px 0 0 7px;
+    padding: 0;
+    border:0;
+    outline: 0;
+}
+.s_btn{
+    width: 100px;
+    height: 36px;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    background: #3385ff;
+    border-bottom: 1px solid #2d78f4;
+    outline: medium;
+    -webkit-border-radius: 0;
+    padding:0;
+}
+.blank{
+    height: 191px;;
+}
+.qrcode{
+    text-align: center;
+}
+.qrcode-img{
+    display: inline-block;
+    background: url("../images/zbios_efde696.png")0 0 no-repeat;
+    width: 60px;
+    height: 60px;
+}
+.qrcode-text{
+    color: #999;
+    line-height: 23px;
+    margin: 3px 0 0 5px;
+}
+.ftConw{
+    text-align: center;
+}
+.lh a{
+    margin-left: 25px;
+    color: #999;
+}
+.cp{
+    color: #999;
+}
+.cp a{
+    color: #999;
+}

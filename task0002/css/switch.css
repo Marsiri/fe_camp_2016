@@ -1,0 +1,21 @@
+button{
+    font-size: 20px;
+    width: 150px;
+    border-radius: 5px;
+    display: block;
+    background-size: cover;
+    position: absolute;
+    right:40vh;
+}
+#xx{
+    background-image: url("../images/btn-gray.png");
+    top: 35vh;
+}
+#bw{
+    background-image: url("../images/btn-blue.png");
+    top: 50vh;
+}
+body,html{
+    margin:0;
+    height: 100%;
+}
