@@ -1,0 +1,21 @@
+.logo{
+    float: left;
+    height:70px;
+}
+.introduction{
+    overflow: hidden;
+}
+.introduction::after {
+    content: ' ';
+    display: block;
+    clear: both;
+    height:0;
+    overflow: hidden;
+}
+main{
+    display: flex;
+}
+.advantage,.dis {
+    border:2px solid #5DADE2;
+    margin: 2px;
+}
